@@ -1,13 +1,10 @@
-# Big Data Hackathon for San Diego 2024
-<!-- ~~## OCT 12 (Day 1): Proposal Submission Guidelines~~ -->
-## OCT 12 (Day 1): Proposal Submission Guidelines
-> - Get a markdown template, [proposal_submission_form_2024.md](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/proposal_submission_form_2024.md), which should be available in your GitHub team repository
-> - Customize the template and rename it as README.md to replace the original README.md file **by 4:30 p.m.**
+timely and specialized care for those in underserved areas? (Focus on SDSU Imperial Valley Connection - Rural/Remote)
+- [ ] Enhancing disease prevention (For Geocomputational Thinker Awards)
+> How can big (geospatial) data analytics and AI be used to improve access to information about the influence of human behavior, cultural practices, and social interactions on the spread of diseases?
+- [ ] Addressing environmental health disparities (For Geocomputational Thinker Awards)
+> How can we leverage big (geospatial) data analytics and AI to improve access to resources that mitigate the impact of environmental factors, i.e. pollution, on health disparities?
 
-> - For a proposal, please provide us with the following:
->   - Your team name and members
->   - A title for your idea
->   - Hackathon theme it ties to (see list on site)
->   - A sentence describing your idea
->   - A visual that shows what your idea is (can be a sketch, photo, wireframe, etc.)
-> - Make sure to think about the Hackathon theme, how this will help the user experience, how data will be incorporated and what problem it aims to solve. 
+
+#### Team Coordinator GitHub Username: `Isaac02ir`
+
+#### Team Members `Connor LaBianco clbmiracosta, Karely Gudino (pending), Julie Gurrero (pending)'
